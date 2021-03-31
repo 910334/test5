@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color:black;
+    color: darkblue
+}
+#summer{
+    width: 200;
+    height: 200;
+}
+#winter{
+    width: 200;
+    height: 200;
+}
+#spring{
+     width: 200;
+     height: 200;
+}
+#autumn{
+     width: 200;
+     height: 200;
+}
